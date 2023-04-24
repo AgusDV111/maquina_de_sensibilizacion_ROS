@@ -6,6 +6,7 @@ Obtener información concisa
 Utilizar emociones para generar vínculos con la causa que apoya la fundación  
 Tener plataformas amigables 
 
+![image](https://user-images.githubusercontent.com/104184664/234126499-9a924f37-2ebc-4168-b707-9e21c3b55563.png)
 
 Figura 1. Estación Teletón
 Métrica de éxito  
@@ -13,24 +14,14 @@ Preguntas al terminar la validación:
 Al terminar la validación del prototipo, se les hacían preguntas a los jóvenes sobre sus primeras impresiones, qué fue lo que más les gustó y  si le cambiaran algún elemento. Posterior a la validación, concluimos que nuestra propuesta tuvo buena aceptación por parte del público objetivo. 
 Journey map generado a partir de lo observado en la demostración dada en prepa tec:
 
-Etapa 1
-Etapa 2 
-Etapa 3 
-Etapa 4
-Etapa 5 
-Etapa 6
-Se sienten atraídos por diseño y aroma
-Ver datos en la Estación Teletón en formato de videos cortos
-Ver la alcancía y el diseño de la estación 
-Interactuar con la alcancía 
-Ver video de un caso de uno de los pacientes 
-La gente se motiva a participar y a donar 
-
+![image](https://user-images.githubusercontent.com/104184664/234126755-8b7b69af-d546-49bd-a7ef-66f685b64c72.png)
 
 Figura 2. Journey map
 
 Alternativas del proyecto
 Una de las alternativas del proyecto, la cual fue descartada, es agregar una cámara a la estación para que los jóvenes puedan subir una fotografía a redes sociales. Con esto, se buscaba conectar con los jóvenes usando como puente redes sociales que se centran en fotografías como Instagram.
+
+![image](https://user-images.githubusercontent.com/104184664/234126877-ee24f13a-6d7f-4f28-aea1-57f3af0f551e.png)
 
 Figura 3. Estación teletón con cámara
 
@@ -49,7 +40,8 @@ Falta de participación: al no tener una motivación para tomarse una fotografí
 
 Una recomendación para esta alternativa es generar una grán campaña de marketing para la fotografía. Un ejemplo de esto fue el famoso Ice bucket challenge en 2014, en el cual muchos famosos viralizaron videos de ellos en los cuales al realizar una donación se grababan tirándose una cubeta de agua helada. Con esto en mente, se podría generar ese mismo vínculo con la fotografía de la estación, invitando así a que más gente interactúe, se sensibilice y se informe. Además se podrían poner filtros y otros elementos para ponerle un diferenciador a las fotos tomadas por la estación. 
 
-Stakeholder's map       
+![image](https://user-images.githubusercontent.com/104184664/234126951-b61d6cb0-822b-4e11-b459-c9c07450a04b.png)
+   
 
 Figura 4. Stakeholder's map propuesta con cámara
 
@@ -71,6 +63,7 @@ Mantenimientos más regulares: Posiblemente por las interacciones los aromas de 
 Posible robo de tokens: al ser tokens con un diseño especial y con aroma, se volverían objetivos para ser robados por las personas que interactúen con ellos
 Stakeholder's map        
   
+![image](https://user-images.githubusercontent.com/104184664/234126996-5789be21-448a-4043-9169-15dbc706e480.png)
 
 Figura 5. Stakeholder's map propuesta con tokens con aroma
 
